@@ -1,0 +1,45 @@
+! InputMethod
+URxvt.inputMethod:ibus
+URxvt.preeditType:OverTheSpot
+
+! Special Colors
+*.foreground:  #ffffff 
+*.background:  #000000 
+*.cursorColor: White
+ 
+! Colors
+*.color0:      Black
+*.color1:      OrangeRed3
+*.color2:      Green4
+*.color3:      Yellow3
+*.color4:      RoyalBlue3
+*.color5:      Magenta3
+*.color6:      Cyan3
+*.color7:      AntiqueWhite
+*.color8:      Grey15
+*.color9:      OrangeRed
+*.color10:     Green 
+*.color11:     Yellow
+*.color12:     CornflowerBlue
+*.color13:     Magenta
+*.color14:     turquoise
+*.color15:     White
+
+! ScrollBar
+URxvt*scrollBar:         false
+URxvt*scrollBar_right:   true
+URxvt*scrollBar_floating:true
+URxvt*scrollstyle:plain
+
+! Screen Buffer
+*.saveLines:1000
+*.preeditType:Root
+
+
+URxvt*transparent:       false
+
+URxvt.font: xft:Droid Sans Mono for powerline:pixelsize=11
+URxvt.letterSpace: 0
+
+*antialias:  true
+*autohint:   true
