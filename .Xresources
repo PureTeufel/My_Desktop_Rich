@@ -1,13 +1,13 @@
-! InputMethod
+!*******InputMethod*******!
 URxvt.inputMethod:ibus
 URxvt.preeditType:OverTheSpot
 
-! Special Colors
+!*******Special Colors*******!
 *.foreground:  #ffffff 
 *.background:  #000000 
 *.cursorColor: White
  
-! Colors
+!*******Colors*******!
 *.color0:      Black
 *.color1:      OrangeRed3
 *.color2:      Green4
@@ -25,20 +25,21 @@ URxvt.preeditType:OverTheSpot
 *.color14:     turquoise
 *.color15:     White
 
-! ScrollBar
+!*******ScrollBar********!
 URxvt*scrollBar:         false
 URxvt*scrollBar_right:   true
 URxvt*scrollBar_floating:true
 URxvt*scrollstyle:plain
 
-! Screen Buffer
-*.saveLines:1000
-*.preeditType:Root
+!*******Screen Buffer*******!
+*.saveLines:15000
 
-
-URxvt*transparent:       false
-
+!*******Fonts*******!
+! Droid Sans Mono 
 URxvt.font: xft:Droid Sans Mono for powerline:pixelsize=11
+URxvt.letterSpace: 0
+! Source Code Pro 
+URxvt.font: xft:Source Code Pro for powerline:pixelsize=11
 URxvt.letterSpace: 0
 
 *antialias:  true
