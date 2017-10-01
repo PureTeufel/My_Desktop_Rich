@@ -39,8 +39,8 @@ URxvt*scrollstyle:plain
 URxvt.font: xft:Droid Sans Mono for powerline:pixelsize=11
 URxvt.letterSpace: 0
 ! Source Code Pro 
-URxvt.font: xft:Source Code Pro for powerline:pixelsize=11
-URxvt.letterSpace: 0
+!URxvt.font: xft:Source Code Pro for powerline:pixelsize=11
+!URxvt.letterSpace: 0
 
 *antialias:  true
 *autohint:   true
