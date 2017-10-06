@@ -1,1 +1,2 @@
-### Some configuration about my awesome-wm
+## 关于i3WM的一些美化问题
+#### 1. i3的配置
