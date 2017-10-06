@@ -9,5 +9,8 @@
 * `mpv` 或 `smplayer` 或 `vlc` 视频播放（可选）
 * `kwplayer` 或 `spotify` 音频播放（可选）
 * `volumeicon` 显示音量图标并与alsa一起使用来调节音量（可选）
-
+* `zsh` 和 `oh-my-zsh` 众所周知，绝对是强大的东西（推荐）
+### 2. urxvt的配置
+### 3. termite的配置
+### 4. vim强化
 **注：所有配置均非原创，均来自强大的互联网，只是略加修改**
